@@ -19,7 +19,8 @@ Technologies:
    * Linux (Docker OS)
    * Github (source repo) 
    * Github (Issue Tracking)
-
+   * CICD (Jenkins)
+   
 Development model
 	* Agile
 	* Scrum
