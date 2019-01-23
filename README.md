@@ -1,16 +1,16 @@
 # sunflower
 Sunflower Client Database
 
-Skills:
-project management
-architectural design
+Skills:  
+project management  
+architectural design  
   * network
   * system
   * database
   * UI (User Interface)
 
 
-Technologies:
+Technologies:  
    * Mongo (database)
    * Tomcat (web-server)
    * Maven (build orchestrator)
@@ -21,7 +21,7 @@ Technologies:
    * Github (Issue Tracking)
    * CICD (Jenkins)
    
-Development model
+Development model  
 	* Agile
 	* Scrum
 	
